@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "sash.hoverBorder": "#e7d8a6",
+      "statusBar.background": "#dcc77e",
+      "statusBar.foreground": "#15202b",
+      "statusBarItem.hoverBackground": "#d1b656",
+      "statusBarItem.remoteBackground": "#dcc77e",
+      "statusBarItem.remoteForeground": "#15202b"
+    },
+    "peacock.color": "#dcc77e"
+  }
+}
